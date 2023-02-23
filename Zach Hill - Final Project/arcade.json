@@ -1,0 +1,33 @@
+{
+	"name": "New project",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "ded3rep7cki",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r317.2",
+	"ife": false,
+	"used-plugins": [
+		"TiledBg",
+		"Sprite",
+		"Tilemap",
+		"Keyboard",
+		"Text",
+		"Audio",
+		"Mouse"
+	],
+	"used-behaviors": [
+		"solid",
+		"Platform",
+		"scrollto",
+		"Sin",
+		"DragnDrop",
+		"Fade"
+	]
+}
